@@ -4,7 +4,7 @@ VGG16_tensorflow2.0 Code
 
 Dataset
 -------
-#### Cat vs Dog dataset <https://www.kaggle.com/c/dogs-vs-cats/data>
+#### Cat vs Dog dataset Download Site : <https://www.kaggle.com/c/dogs-vs-cats/data>
 Train dataset을 Train iamge 17000장, vaildation image 4000장, test image 4000장으로 나누어서 실험하였다.(그림1 참조)   
    
 >그림1   

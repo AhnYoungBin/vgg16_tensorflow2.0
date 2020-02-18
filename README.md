@@ -19,5 +19,6 @@ Option
 ------
 #### input_shape : [224,224,3], Batch_size : 32, epochs = 400
 #### compile option : optimizers= 'Adadelta', loss='binary_crossentropy', metrics=['acc']
-
-
+   
+Result
+------

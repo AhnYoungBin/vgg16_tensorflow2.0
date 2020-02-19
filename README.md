@@ -27,7 +27,26 @@ Result
    
 <img src="/image/3.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
 
+>Grad-Cam heatmap Image   
+<img src="/image/4.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
+<img src="/image/5.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
+
+>predict Test Image   
+
+<img src="/image/6.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
+
+>Confustion_matrix
+
+<img src="/image/7.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
+
+4000개의 Test image로 predict 결과 acc: 91.95%를 달성   
+Grad-CAM heatmap 출력 결과 대상의 얼굴을 중점으로 개, 고양이를 판별하는 것으로 추정   
+Confustion_matrix 확인 결과 개와 고양이를 고르게 맞추는것을 확인   
+
+
 ***
+
+#### Grad-CAM & Featuremap 구현 Tensorflow Code
 >Featuremap Visualization tensorflow2.0 code<https://github.com/AhnYoungBin/Featuremap_visualization>   
 >Grad_CAM tensorflow2.0 code<https://github.com/AhnYoungBin/Grad_cam>   
 

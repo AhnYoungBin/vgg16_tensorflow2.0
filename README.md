@@ -42,7 +42,7 @@ Result
 
 4000개의 Test image로 predict 결과 acc: 91.95%를 달성   
 Grad-CAM heatmap 출력 결과 대상의 얼굴을 중점으로 개, 고양이를 판별하는 것으로 추정   
-Confustion_matrix 확인 결과 개와 고양이를 고르게 맞추는것을 확인   
+Confustion_matrix 확인 결과 고양이 인식 성능이 개 인식 성능보다 조금 떨어지는 것을 확인   
 자세한 모델 구조 및 hyper parameter는 vgg16.ipynb를 참고하시길 바랍니다.   
    
 ***
